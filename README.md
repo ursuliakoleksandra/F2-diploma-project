@@ -2,9 +2,16 @@
 
 Qualification project for the F2 Software Engineering specialty.
 
+## Тема
+
+Подієво-орієнтована система прогнозування та оптимізації енергоспоживання житлових будинків із автоматизованим контролем якості та безпеки.
+
+**Студент:** Олександра
+**Науковий керівник:** Нікітін Юрій Алікович
+
 ## Project Status
 
-**Topic selection in progress.**
+Етап 1: аналіз аналогів та формування вимог. Поточний календарний план наведено в [docs/README.md](docs/README.md).
 
 ## Repository Structure
 
@@ -14,5 +21,5 @@ Qualification project for the F2 Software Engineering specialty.
 
 ## Documentation
 
-The project documentation will be developed using a Docs-as-Code approach.
+Документація розробляється за підходом Docs-as-Code: усі зміни проходять через feature-гілки та Pull Request, коміти відповідають угоді Conventional Commits.
 
